@@ -1,2 +1,7 @@
-# react-webpack-blank
-Empty react webpack project
+# Blank React.js Webpack Project
+
+```
+npm install
+npm start
+go to localtost:8080
+```
